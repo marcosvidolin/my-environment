@@ -1,8 +1,8 @@
-# my-environment
+# my-environment 🕶 🍎 🚀
 
 My custom environment: plugins and tools
 
-## Terminal
+## Terminal 💻
 
 ### iTerm2
 
@@ -10,7 +10,7 @@ My custom environment: plugins and tools
 brew cask install iterm2
 ```
 
-## Essential terminal improvements 😂
+### Essential terminal improvements
 
 Make your terminal more friendly:
 
@@ -26,10 +26,7 @@ brew install fortune && brew install cowsay
 fortune | cowsay
 ```
 
-nano ~/bash_profile
-
-Add the fallowing line
-fortune | cowsay
+Have fun ✌🏼
 
 ## Chrome Plugins
 
