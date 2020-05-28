@@ -2,6 +2,35 @@
 
 My custom environment: plugins and tools
 
+## Terminal
+
+### iTerm2
+
+```shell
+brew cask install iterm2
+```
+
+## Essential terminal improvements 😂
+
+Make your terminal more friendly:
+
+- Install
+
+```shell
+brew install fortune && brew install cowsay
+```
+
+- Add the following line to the ~/.bash_profile
+
+```shell
+fortune | cowsay
+```
+
+nano ~/bash_profile
+
+Add the fallowing line
+fortune | cowsay
+
 ## Chrome Plugins
 
 - [Octotree](https://chrome.google.com/webstore/detail/octotree/bkhaagjahfmjljalopjnoealnfndnagc): Browser extension that brings your GitHub experience to the next level.
@@ -14,6 +43,8 @@ My custom environment: plugins and tools
 Validate and view JSON documents.
 
 - [Grammarly](https://chrome.google.com/webstore/detail/grammarly-for-chrome/kbfnbcaeplbcioakkpcpgfkobkghlhen?hl=en): Grammarly helps you eliminate writing errors and find the perfect words to express yourself.
+
+- [OneTab](https://chrome.google.com/webstore/detail/onetab/chphlpgkkbolifaimnlloiipkdnihall/related?hl=en): Whenever you find yourself with too many tabs, click the OneTab icon to convert all of your tabs into a list. 
 
 - [ColorZilla](https://chrome.google.com/webstore/detail/colorzilla/bhlhnicpbhignbdhedgjhgdocnmhomnp?hl=en): Advanced Eyedropper, Color Picker, Gradient Generator and other colorful goodies.
 
