@@ -28,7 +28,7 @@ fortune | cowsay
 
 Have fun ✌🏼
 
-## Chrome Plugins
+## Chrome Extensions
 
 - [Octotree](https://chrome.google.com/webstore/detail/octotree/bkhaagjahfmjljalopjnoealnfndnagc): Browser extension that brings your GitHub experience to the next level.
 
