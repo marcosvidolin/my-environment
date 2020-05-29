@@ -44,7 +44,9 @@ Have fun ✌🏼
 - [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint): Integrates ESLint into VS Code.
 - [EditorConfig](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig): This plugin attempts to override user/workspace settings with settings found in .editorconfig files.
 
-## Chrome Extensions
+## Chrome
+
+### Extensions
 
 - [Octotree](https://chrome.google.com/webstore/detail/octotree/bkhaagjahfmjljalopjnoealnfndnagc): Browser extension that brings your GitHub experience to the next level.
 - [Dark Reader](https://chrome.google.com/webstore/detail/dark-reader/eimadpbcbfnmbkopoojfekhnkhdbieeh): Dark mode for every website. Take care of your eyes, use dark theme for night and daily browsing.
@@ -55,3 +57,7 @@ Validate and view JSON documents.
 - [OneTab](https://chrome.google.com/webstore/detail/onetab/chphlpgkkbolifaimnlloiipkdnihall/related?hl=en): Whenever you find yourself with too many tabs, click the OneTab icon to convert all of your tabs into a list. 
 - [ColorZilla](https://chrome.google.com/webstore/detail/colorzilla/bhlhnicpbhignbdhedgjhgdocnmhomnp?hl=en): Advanced Eyedropper, Color Picker, Gradient Generator and other colorful goodies.
 - [AdBlock](https://chrome.google.com/webstore/detail/adblock-%E2%80%94-best-ad-blocker/gighmmpiobklfepjocnamgkkbiglidom): Block ads and pop-ups on YouTube, Facebook, Twitch, and your favorite websites.
+
+## Utility Sites
+
+[JWT](https://jwt.ms/)
