@@ -28,6 +28,22 @@ fortune | cowsay
 
 Have fun ✌🏼
 
+## VS Code
+
+### Extensions
+
+- [Joker Smile](https://marketplace.visualstudio.com/items?itemName=marcosvidolin.joker-smile): This is a Visual Studio Code theme based on Joker's style.
+- [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme): Get the Material Design icons into your VS Code.
+- [Color Highlight](https://marketplace.visualstudio.com/items?itemName=naumovs.color-highlight): This extension styles css/web colors found in your document.
+- [DotENV](https://marketplace.visualstudio.com/items?itemName=mikestead.dotenv): VSCode .env syntax highlighting.
+- [GitLens — Git supercharged](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens): It helps you to visualize code authorship at a glance via Git blame annotations and code lens and more.
+- [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer): Launch a development local Server with live reload feature for static & dynamic pages.
+- [Bracket Pair Colorizer](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer): A customizable extension for colorizing matching brackets.
+- [TODO Highlight](https://marketplace.visualstudio.com/items?itemName=wayou.vscode-todo-highlight): highlight TODOs, FIXMEs, and any keywords, annotations.
+- [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode): It enforces a consistent style by parsing your code and re-printing it with its own rules that take the maximum line length into account, wrapping code when necessary.
+- [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint): Integrates ESLint into VS Code.
+- [EditorConfig](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig): This plugin attempts to override user/workspace settings with settings found in .editorconfig files.
+
 ## Chrome Extensions
 
 - [Octotree](https://chrome.google.com/webstore/detail/octotree/bkhaagjahfmjljalopjnoealnfndnagc): Browser extension that brings your GitHub experience to the next level.
