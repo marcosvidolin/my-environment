@@ -60,4 +60,4 @@ Validate and view JSON documents.
 
 ## Utility Sites
 
-[JWT](https://jwt.io/): JWT.IO allows you to decode, verify and generate JWT.
+[JWT.IO](https://jwt.io/): JWT.IO allows you to decode, verify and generate JWT.
