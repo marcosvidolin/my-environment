@@ -60,4 +60,4 @@ Validate and view JSON documents.
 
 ## Utility Sites
 
-[JWT](https://jwt.ms/)
+[JWT](https://jwt.io/)
