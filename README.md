@@ -60,7 +60,7 @@ Validate and view JSON documents.
 
 ## Utility Sites
 
-[Regex101](https://regex101.com/): Online regular expression tool
+[Regex101](https://regex101.com/): A very intuitive online regular expression tool
 
 [JWT.IO](https://jwt.io/): JWT.IO allows you to decode, verify and generate JWT.
 
