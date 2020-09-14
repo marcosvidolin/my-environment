@@ -66,4 +66,4 @@ Validate and view JSON documents.
 
 [gitignore.io](https://www.gitignore.io/): Create useful .gitignore files for your project.
 
-[Text to ASCII Art Generator](http://patorjk.com/software/taag/#p=display&f=Graffiti&t=Type%20Something%20)
+[patorjk.com](http://patorjk.com/software/taag/#p=display&f=Graffiti&t=Type%20Something%20): Text to ASCII Art Generator
