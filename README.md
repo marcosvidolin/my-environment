@@ -65,3 +65,5 @@ Validate and view JSON documents.
 [JWT.IO](https://jwt.io/): JWT.IO allows you to decode, verify and generate JWT.
 
 [gitignore.io](https://www.gitignore.io/): Create useful .gitignore files for your project.
+
+[Text to ASCII Art Generator](http://patorjk.com/software/taag/#p=display&f=Graffiti&t=Type%20Something%20)
